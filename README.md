@@ -1,0 +1,2 @@
+# sigh language detection
+This project is a real-time sign language detection system using a webcam, OpenCV, and pre-trained machine learning models. It captures video from your webcam, detects and crops the hand region, preprocesses the image, and uses a custom classifier to recognize specific sign language gestures such as "Hello," "Thank you," and "Yes." The identified gesture is displayed on the screen with visual markers. Press 'q' to exit the application.
